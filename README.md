@@ -250,9 +250,24 @@ AdventureWorks-Sales-Analytics-Dashboard
 - Publish dashboard to Power BI Service
 - Implement Row-Level Security (RLS)
 - Add forecasting visuals
-- Add drill-through pages
 - Optimize model performance
 - Automate dataset refresh
+
+---
+
+# 🤝 Contributing
+
+Contributions, suggestions, and improvements are welcome.
+
+Feel free to open an issue or submit a pull request.
+
+---
+
+# 🛡️ License
+
+This project is licensed under the MIT License.
+
+You are free to use, modify, and distribute this project with proper attribution.
 
 ---
 
