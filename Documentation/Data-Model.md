@@ -10,7 +10,7 @@ The model consists of a central **Sales** fact table surrounded by multiple dime
 
 # Data Model Diagram
 
-![Data Model](Images/data-model.png)
+![Data Model](Images/data-model.PNG)
 
 ---
 
